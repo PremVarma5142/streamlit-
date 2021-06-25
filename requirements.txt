@@ -1,4 +1,6 @@
-sklearn
-joblib
 streamlit
+joblib
+emoji
+sklearn
 seaborn
+neattext
